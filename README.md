@@ -1,5 +1,6 @@
 # Reading-notes301 :clap:
-this repo will hold all the reading assignments for this course
+
+This repo will hold all the reading assignments for this course
 
 
 
