@@ -10,7 +10,7 @@ __________________________________________________________
 ## 4. Code 401 - Advanced Software Development
 __________________________________________________________
 
-**I will be a Full Stack Developer **
+**I will be a Full Stack Developer**
 
 
 ![Drag Racing](https://www.askideas.com/media/08/Heart-Lake-Funny-Nature.jpg)
